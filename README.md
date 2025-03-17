@@ -18,7 +18,7 @@ This is a simple yet efficient To-Do List application built using Python and Tki
    ```
 2. Navigate to the project directory:
    ```sh
-   cd todo-list
+   cd todo-list-gui
    ```
 3. Install dependencies (if needed):
    ```sh
