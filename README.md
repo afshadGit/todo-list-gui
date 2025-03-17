@@ -14,7 +14,7 @@ This is a simple yet efficient To-Do List application built using Python and Tki
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/afshadGit/todo-list-gui.git
    ```
 2. Navigate to the project directory:
    ```sh
